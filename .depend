@@ -1,0 +1,2 @@
+kinematics.o: kinematics.cpp kinematics.h
+main.o: main.cpp kinematics.h
